@@ -11,10 +11,10 @@ Blender用モデルデータ及び各種画像データです。
 ・Miku.zip-モデルデータ、テクスチャデータ全部入りです。  
 ※テクスチャをpackしていないので、まとめてダウンロードできるようにzip化することにしました。
 
-ただし、初音ミクとして利用する場合、クリプトン・フューチャー・メディアが定めるキャラクター利用のガイドラインに従ってください  
+初音ミクとして利用する場合、クリプトン・フューチャー・メディアが定めるキャラクター利用のガイドラインに従ってください  
 http://piapro.jp/license/character_guideline
 
-You are allowed to use this MMD model only if you follow the guideline
+You are allowed to use this 3D model only if you follow the guideline
 set by Crypton Future Media, INC. for the usage of its characters.
 For detail, see: http://piapro.net/en_for_creators.html
 
